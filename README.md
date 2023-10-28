@@ -1,2 +1,2 @@
 # Calculator
-![calc](images/calc.png)
+<img src="images/calc.png" width="400">
